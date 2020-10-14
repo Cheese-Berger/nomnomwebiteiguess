@@ -1,0 +1,23 @@
+body {
+  /* background of website */
+  background-size: cover;
+  background: linear-gradient(to right, red, blue);
+}
+/* 
+HOW CSS WORK!!?!!?!?!?!?!!?!?!1?!
+I FEEL PAIN EVER SECOND THAT I USE THIS SHITTY CODING LANGUAGE
+AAAAAAAAAAAAAAAAAAaa
+ */
+
+#test {
+  font: bold;
+  font-family: sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 600;
+  color: black
+ }
+ #test:hover {
+  font: bold;
+  font-family: sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 600;
+  color: #575353
+ }
